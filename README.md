@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hilton@hiltonws.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hilton@hiltonws.com)](mailto:hilton@hiltonws.com)
 
 ## Hi 👋, 
-I'm Hilton W. Silva, I'm a software developer 👨‍💻 who is passionate about technoligies that can hel people and open source.
+I'm Hilton W. Silva, I'm a software developer 👨‍💻 who is passionate about technoligies that can help people and open source.
 
 - 🔭 I’m currently working on health care system, and some random stuff :satisfied:
 - 🌱 I’m currently learning a lot of stuff haha
