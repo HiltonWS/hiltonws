@@ -5,7 +5,7 @@
 ## Hi 👋, 
 I'm Hilton W. Silva, I'm a software developer 👨‍💻 who is passionate about technoligies that can help people and open source.
 
-- 🔭 I’m currently working on health care system, and some random stuff :satisfied:
+- 🔭 I’m currently working on CTW@BMWGroup, and some random stuff :satisfied:
 - 🌱 I’m currently learning a lot of stuff haha
 - ⚡ Languages: Java, javascript, python, c++, c#, Scala
 
