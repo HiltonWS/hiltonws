@@ -7,6 +7,6 @@ I'm Hilton W. Silva, I'm a software developer 👨‍💻 who is passionate abou
 
 - 🔭 I’m currently working on CTW@BMWGroup, and some random stuff :satisfied:
 - 🌱 I’m currently learning a lot of stuff haha
-- ⚡ Languages: Java, javascript, python, c++, c#, Scala
+- ⚡ Languages: Java, javascript
 
 
