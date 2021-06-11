@@ -1,5 +1,5 @@
 # Hilton W. Silva  
-[![Twitter Badge](https://img.shields.io/badge/-@HiltonWS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HiltonWS)](https://twitter.com/HiltonWS) [![Linkedin Badge](https://img.shields.io/badge/-HiltonWS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HiltonWS/)](https://www.linkedin.com/in/HiltonWS/)
+[![Twitter Badge](https://img.shields.io/badge/-@hilton_ws-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hilton_ws)](https://twitter.com/hilton_ws) [![Linkedin Badge](https://img.shields.io/badge/-hilton-ws-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hilton-ws/)](https://www.linkedin.com/in/hilton-ws/)
 [![Gmail Badge](https://img.shields.io/badge/-hilton@hiltonws.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hilton@hiltonws.com)](mailto:hilton@hiltonws.com)
 
 ## Hi 👋, 
