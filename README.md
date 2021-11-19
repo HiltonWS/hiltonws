@@ -8,5 +8,6 @@ I'm Hilton W. Silva, I'm a software developer 👨‍💻 who is passionate abou
 - 🔭 I’m currently working on CTW@BMWGroup, and some random stuff :satisfied:
 - 🌱 I’m currently learning a lot of stuff haha
 - ⚡ Languages: Java, javascript
+----
 
-
+[![HiltonWS's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiltonWS)](https://github.com/hiltonws/)
