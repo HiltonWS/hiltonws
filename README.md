@@ -10,4 +10,4 @@ I'm Hilton W. Silva, I'm a software developer 👨‍💻 who is passionate abou
 - ⚡ Languages: Java, javascript
 ----
 
-[![HiltonWS's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiltonWS)](https://github.com/hiltonws/)
+[![HiltonWS's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HiltonWS)](https://github.com/hiltonws/)
